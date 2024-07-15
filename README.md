@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javiermontoto&label=Profile%20views&color=0e75b6&style=flat" alt="javiermontoto" /> </p>
 
-- 🔭 I’m currently working as a student in **Hack A Boss**
+- 🔭 I’m currently Studying Data Science in **Hack A Boss**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
